@@ -1,4 +1,7 @@
 class Person
+
+
+class Person
   attr_accessor :partner, :name
 
   def initialize(name)
